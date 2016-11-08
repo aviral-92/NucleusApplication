@@ -1,0 +1,20 @@
+.icon{
+    height: 50px;
+    margin-top: 175px;
+    cursor: pointer;
+}
+.dispInline{
+    display: inline;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.movies{
+    text-align: center;
+}
+img{
+    max-width: 100%;
+}
